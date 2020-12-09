@@ -1,0 +1,13 @@
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.exe
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.deps.json
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.runtimeconfig.json
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.runtimeconfig.dev.json
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.dll
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\bin\Debug\netcoreapp3.1\spooky_supermarket.pdb
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.csprojAssemblyReference.cache
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.AssemblyInfoInputs.cache
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.AssemblyInfo.cs
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.csproj.CoreCompileInputs.cache
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.dll
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.pdb
+C:\Users\gianf\source\repos\spooky_supermarket\spooky_supermarket\obj\Debug\netcoreapp3.1\spooky_supermarket.genruntimeconfig.cache
